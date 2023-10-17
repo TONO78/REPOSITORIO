@@ -9,7 +9,7 @@ public class Cuadrado {
         System.out.print("Ingresa la longitud del lado: ");
         double lado = scanner.nextDouble();
 
-        // Calcular el área y el perímetro del rectángulo
+        // Calcular el área y el perímetro del cuadrado
         double area = lado * lado;
         double perimetro = 4 * lado;
 
@@ -17,6 +17,7 @@ public class Cuadrado {
         System.out.println("Cuadrado:");
         System.out.println("Área: " + area);
         System.out.println("Perímetro: " + perimetro);
+        System.out.println("hola");
 
         // Cerrar el objeto Scanner
         scanner.close();
