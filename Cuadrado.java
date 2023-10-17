@@ -17,7 +17,7 @@ public class Cuadrado {
         System.out.println("Cuadrado:");
         System.out.println("Área: " + area);
         System.out.println("Perímetro: " + perimetro);
-        System.out.println("hola");
+        //Hola
 
         // Cerrar el objeto Scanner
         scanner.close();
